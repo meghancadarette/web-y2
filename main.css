@@ -1,4 +1,23 @@
 .feature-img {
+    margin-left: 185px;
+    margin-right: 185px;
+    width: 300px;
 }
 .article-head {
+    text-align: center;
+}
+.box {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;	
+}
+.box-article {
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    border: thick double rgba(107,6,8,1.00);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    grid-template: columns;
 }
